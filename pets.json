@@ -1,0 +1,135 @@
+{
+	"pets": [
+
+		{
+			"name": "Albert",
+			"location": "Eugene, OR",
+			"breed": "Rotteweiler",
+			"type": "Dog",
+			"contactName": "Beverly",
+			"contactNumber": "303-123-1234",
+			"description": "Looking for someone who can help him manage his weight. He's just a big ole lover and thinks he's a lap dog.",
+			"picture": "photos/albert.jpg"
+		},
+		{
+			"name": "Anna",
+			"location": "Fayetteville, AR",
+			"breed": "Pit Bull",
+			"type": "Dog",
+			"contactName": "Beverly",
+			"contactNumber": "303-123-1234",
+			"description": "Anna is as sweet as they come. Likes to chase cats though, so she's looking for a forever family with NO cats.",
+			"picture": "photos/anna.jpg"
+		},
+		{
+			"name": "Baby",
+			"location": "Lubbock, TX",
+			"breed": "Mutt",
+			"type": "Dog",
+			"contactName": "Beverly",
+			"contactNumber": "303-123-1234",
+			"description": "She's a little timid but she's potty trained and loves to work for treats.",
+			"picture": "photos/baby.jpg"
+		},
+		{
+			"name": "Buddy",
+			"location": "Hoboken, NJ",
+			"breed": "Bulldog",
+			"type": "Dog",
+			"contactName": "Beverly",
+			"contactNumber": "303-123-1234",
+			"description": "Very motivated by Food!",
+			"picture": "photos/buddy.jpg"
+		},
+		{
+			"name": "Fluffy",
+			"location": "Durango, CO",
+			"breed": "Unknown",
+			"type": "Cat",
+			"contactName": "Beverly",
+			"contactNumber": "303-123-1234",
+			"description": "Adorable but kind of an asshole",
+			"picture": "photos/fluffy.jpg"
+		},
+		{
+			"name": "Grag",
+			"location": "Providence, CT",
+			"breed": "Unknown",
+			"type": "Cat",
+			"contactName": "Beverly",
+			"contactNumber": "303-123-1234",
+			"description": "Grumpy and standoffish at first. Once he gets to know you though he'll love you and sometimes pretend not to.",
+			"picture": "photos/grag.jpg"
+		},
+		{
+			"name": "Lady",
+			"location": "New Orleans, LA",
+			"breed": "Pitbull",
+			"type": "Dog",
+			"contactName": "Beverly",
+			"contactNumber": "303-123-1234",
+			"description": "Sweet girl and very well trained. A great family dog.",
+			"picture": "photos/lady.jpg"
+		},
+		{
+			"name": "Leia",
+			"location": "Hollywood, CA",
+			"breed": "Corgi/Australlian Shepard",
+			"type": "Dog",
+			"contactName": "Beverly",
+			"contactNumber": "303-123-1234",
+			"description": "Struggles with children and loves to be the center of attention",
+			"picture": "photos/leia.jpg"
+		},
+		{
+			"name": ":Luke",
+			"location": "location",
+			"breed": "Unknown",
+			"type": "Dog",
+			"contactName": "Beverly",
+			"contactNumber": "303-123-1234",
+			"description": "description",
+			"picture": "photos/luke.jpg"
+		},
+		{
+			"name": "Luna",
+			"location": "location",
+			"breed": "Unknown",
+			"type": "Dog",
+			"contactName": "Beverly",
+			"contactNumber": "303-123-1234",
+			"description": "description",
+			"picture": "photos/luna.jpg"
+		},
+		{
+			"name": "Pluto",
+			"location": "Atlanta, GA",
+			"breed": "Unknown",
+			"type": "Dog",
+			"contactName": "Beverly",
+			"contactNumber": "303-123-1234",
+			"description": "He's a character!",
+			"picture": "photos/pluto.jpg"
+		},
+		{
+			"name": "Riley",
+			"location": "location",
+			"breed": "Unknown",
+			"type": "Dog",
+			"contactName": "Beverly",
+			"contactNumber": "303-123-1234",
+			"description": "description",
+			"picture": "photos/riley.jpg"
+		},
+		{
+			"name": "Snowball",
+			"location": "Cheyenne, WY",
+			"breed": "Unknown",
+			"type": "Cat",
+			"contactName": "Beverly",
+			"contactNumber": "303-123-1234",
+			"description": "Sass ass",
+			"picture": "photos/snowball.jpg"
+		}
+	]
+}
